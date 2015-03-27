@@ -16,3 +16,4 @@ This is external addon for [clinch](https://github.com/Meettya/clinch) - CommonJ
     packer.addPlugin clinch_eco
 
 For more information see main module documentation.
+
